@@ -1,4 +1,4 @@
-# -Hospitality-Data-Analysis-for-Atliq-Technologies
+# Hospitality-Data-Analysis-for-Atliq-Technologies
 
 Introduction
 
